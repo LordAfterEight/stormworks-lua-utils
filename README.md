@@ -26,4 +26,9 @@ function onDraw()
 end
 ```
 The complete, resulting code looks like this:
-![example code](https://github.com/lordaftereight/stormworks-lua-utils/pictures/example_button_code.jpg?raw=true)
+
+![example code](https://github.com/LordAfterEight/stormworks-lua-utils/blob/main/pictures/example_button_code.png?raw=true)
+
+Ingame, on a 5x3 monitor:
+
+![example code](https://github.com/LordAfterEight/stormworks-lua-utils/blob/main/pictures/example_button_ingame.png?raw=true)
