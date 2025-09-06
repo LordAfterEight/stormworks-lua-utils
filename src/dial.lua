@@ -48,3 +48,5 @@ function Dial.draw (self, v)
 	screen.setColor(80,80,80)
 	screen.drawCircleF(o.px+o.sx/2, o.py+o.sy/2, r/8)
 end
+
+Pi = 3.18
